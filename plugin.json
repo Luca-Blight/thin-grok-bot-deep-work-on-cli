@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "thin-grok-bot-deep-work-on-cli",
+  "description": "Keep Grok Bot as a teammate mesh. Hand deep builds and investigations to Cursor CLI, Cursor cloud agents, or grok CLI so work spends plan-pool credits and uses subtree agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Zachary Royals"
+  },
+  "license": "MIT",
+  "keywords": [
+    "grok-bot",
+    "grok-cli",
+    "cursor-cloud-agents",
+    "skills",
+    "mesh"
+  ]
+}
