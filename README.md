@@ -10,6 +10,10 @@ Cursor cloud agents draw the Cursor plan. grok CLI draws the SuperGrok weekly po
 
 ## Install
 
+```bash
+npx skills add Luca-Blight/thin-grok-bot-deep-work-on-cli
+```
+
 After this plugin is listed:
 
 - Grok Bot: Settings, Plugins, install `thin-grok-bot-deep-work-on-cli`
