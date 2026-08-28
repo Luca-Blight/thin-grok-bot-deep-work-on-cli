@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Thin Grok Bot mesh">
+  <rect width="512" height="512" rx="96" fill="#111827"/>
+  <g fill="none" stroke="#F4F4F5" stroke-width="18" stroke-linecap="round">
+    <line x1="256" y1="168" x2="168" y2="320"/>
+    <line x1="256" y1="168" x2="344" y2="320"/>
+    <line x1="168" y1="320" x2="344" y2="320"/>
+  </g>
+  <circle cx="256" cy="168" r="36" fill="#38BDF8"/>
+  <circle cx="168" cy="320" r="36" fill="#A78BFA"/>
+  <circle cx="344" cy="320" r="36" fill="#34D399"/>
+</svg>

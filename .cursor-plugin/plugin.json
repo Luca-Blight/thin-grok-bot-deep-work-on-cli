@@ -13,5 +13,6 @@
     "skills",
     "mesh"
   ],
-  "skills": "skills/"
+  "skills": "skills/",
+  "logo": "assets/logo.svg"
 }
