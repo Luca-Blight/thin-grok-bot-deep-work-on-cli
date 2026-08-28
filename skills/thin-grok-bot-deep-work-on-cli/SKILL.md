@@ -1,9 +1,6 @@
 ---
 name: thin-grok-bot-deep-work-on-cli
-description: >-
-  Use this when handing off any non-trivial build, investigation, or deep
-  reasoning from Grok Bot. Keep the Bot mesh thin. Cursor CLI / cloud agents or
-  grok CLI run the subtree so work spends plan-pool credits.
+description: Use this when handing off any non-trivial build, investigation, or deep reasoning from Grok Bot. Keep the Bot mesh thin. Cursor CLI / cloud agents or grok CLI run the subtree so work spends plan-pool credits.
 ---
 # Thin Grok Bot, deep work on CLI
 
